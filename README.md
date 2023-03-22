@@ -83,6 +83,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abhijeet-Nema&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
+## Holopin Badges
 [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/@abhijeetnema0#)
 
 ### ✍️ Random Dev Quote
