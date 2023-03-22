@@ -84,7 +84,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Abhijeet-Nema&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ## Holopin Badges
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://www.holopin.io/@abhijeetnema#)
+[![An image of @abhijeetnema0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhijeetnema0)](https://holopin.io/@abhijeetnema0)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
