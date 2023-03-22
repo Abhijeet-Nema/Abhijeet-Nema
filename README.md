@@ -3,7 +3,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
-## <div>I'm Abhijeet, a Full-stack web developer 👨‍💻 also C and Python programmer</div> 
+## <div>I'm Abhijeet, a Full-stack web developer also C and Python programmer 👨‍💻 </div> 
 <img src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" align="right" alt="coding" width=400 >
 
 🔭 I’m currently working on Programming skills<br>👯 I’m looking to collaborate on Web related projects<br>🌱 I’m currently learning Python and Node.js<br>💬 Ask me about Web dev, Python, C, PHP, Bootstrap<br>📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhijeet-nema-a15ba1202)<br>📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1kE-lDv7hM2k9b6ukED6BcC29tRevKfrw/view?usp=share_link)<br>⚡ Fun fact: There are only 10 types of people in the world: those who understand binary and those who don't.
